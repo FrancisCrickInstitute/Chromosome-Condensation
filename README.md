@@ -24,7 +24,7 @@ A simple biophysical model for chromosome condensation simulations
 
 ### About ‘Chromosome-condensation’
 
-‘Chromosome-condesation’ code is a C++ biophysical software designed for Brownian dynamics of chromatin condensation with two distinct mechanisms – ‘diffusion capture’ which is based on pairwise interactions between chromatin loci or between particles mimicking condensin/cohesin, and ‘loop extrusion’, resulting in formation of chromatin loops. ‘Chromo-sim’ can be also used for simple Brownian dynamics simulations of free polymers without any condensation mechanisms (Yasu’s paper). 
+‘Chromosome-condesation’ code is a C++ biophysical software designed for Brownian dynamics of chromatin condensation with two distinct mechanisms – ‘diffusion capture’ which is based on pairwise interactions between chromatin loci or between particles mimicking condensin/cohesin, and ‘loop extrusion’, resulting in formation of chromatin loops. ‘Chromo-sim’ can be also used for simple Brownian dynamics simulations of free polymers without any condensation mechanisms (https://doi.org/10.1186/s13059-020-02183-0). 
 For in-depth description of the model and biophysical algorithms applied, please see doi:10.1093/nar/gkaa1270.
 
 
