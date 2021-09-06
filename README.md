@@ -8,7 +8,7 @@ A simple biophysical model for chromosome condensation simulations
 
 ### •	 Getting Started
 
-### • Usage
+### • Tutorial
 
 ### •	Output & visualization
 
@@ -41,7 +41,7 @@ This is an example of how you may set up the code running for your projects loca
 2.	Or you can clone the repo: git clone https://github.com/FrancisCrickInstitute/Chromosome-Condensation
 
 
-### Usage
+### Tutorial
 
 First, create a folder where you want to run simulations:
 `mkdir test_sim`
@@ -100,15 +100,15 @@ Distributed under **The Francis Crick Institute License**.
  
 
 ### Contact
--	**Tereza Gerguri** - @GerguriTereza, tereza.gerguri@crick.ac.uk
+-	**Tereza Gerguri** - @ClarenceTereza, tereza.clarence@crick.ac.uk, clarence.tereza@gmail.com
 -	**Xiao Fu** - @foolbirdie, xiao.fu@crick.ac.uk
 -	**Paul Bates** - @PaulBatesBMM, paul.bates@crick.ac.uk
 
 
 ### Acknowledgements
 
-This code was developed under the **Biomolecular Modelling Laboratory** https://www.crick.ac.uk/research/labs/paul-bates at Francis Crick Institute (https://www.crick.ac.uk/ ) as a part of collaboration with **Chromosome Segregation Laboratory** https://www.crick.ac.uk/research/labs/frank-uhlmann. 
-Please cite our paper (https://www.biorxiv.org/content/10.1101/2020.10.15.341305v1) when using the code.
+This code was developed under the **Biomolecular Modelling Laboratory** https://www.crick.ac.uk/research/labs/paul-bates at Francis Crick Institute (https://www.crick.ac.uk/) as a part of collaboration with **Chromosome Segregation Laboratory** https://www.crick.ac.uk/research/labs/frank-uhlmann. 
+Please cite our paper (doi:10.1093/nar/gkaa1270) when using the code.
 
 
 
